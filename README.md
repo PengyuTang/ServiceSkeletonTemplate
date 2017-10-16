@@ -1,0 +1,2 @@
+# ServiceSkeletonTemplate
+service skeleton template
